@@ -12,3 +12,5 @@ Ini adalah repo GitHub saya yang berisi ransomware builder buatan sendiri yang d
 ## Peringatan
 
 Saya tidak bertanggung jawab atas penggunaan ransomware builder ini yang melanggar hukum. Gunakanlah hanya untuk tujuan pendidikan dan bertanggung jawab atas penggunaannya.
+
+passwd: 0xbdg
